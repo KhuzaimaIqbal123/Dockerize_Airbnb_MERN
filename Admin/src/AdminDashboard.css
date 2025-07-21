@@ -1,0 +1,31 @@
+.admin-dashboard {
+    text-align: center;
+    height: 100px;
+  }
+  .heading{
+    font-size: 65px;
+    color: rgb(50, 112, 9);
+    margin-top: 5%;
+  }
+  
+  .admin-dashboard-links{
+    display:flex;
+    margin-top: 10%;;
+    justify-content: center;
+
+    color: rgb(4, 3, 17);
+    font-style: bold;
+    font-weight: 600;
+  }
+  .link-1{
+    margin-bottom: 3%;
+    margin-right: 7%;
+  }
+  .admin-dashboard-links a {
+    margin: 10px;
+    background-color: rgb(172, 113, 24);
+    font-size: 22px;
+    padding: 15px;
+    border: 4px solid #030202;
+  }
+  
